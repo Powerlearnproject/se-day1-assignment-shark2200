@@ -7,7 +7,7 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 software engineering the systematic  process of developing a software using engineering principles.
-it ensures that softwares developed are scalable, reliable and efficient to meet different consumer needs
+it ensures that softwares developed are scalable, reliable and efficient to meet different consumer needs.
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
